@@ -63,8 +63,6 @@ This project is open source and available under the Cloudy Tune
 
 # Cloudy Tune | Premium Music Streaming Platform
 
-![Project Banner](https://yt3.googleusercontent.com/7lVrCDXQVlOf12DC-21OMmRRy1fvt47wqgsZ8T5hwlGbJIpVmYVxR8o0OI5XJHo1joJKBAX9=s160-c-k-c0x00ffffff-no-rj)
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
